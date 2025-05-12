@@ -120,3 +120,10 @@ torch.save(model.state_dict(), 'models/vit_deepfake_detector_augmented.pth')
 🔔 Slack/Telegram alerts for high-confidence fake content.
 
 📈 Trend analytics dashboard.
+
+
+
+**App is running on Streamlit**
+```
+https://real-or-not.streamlit.app/
+```
