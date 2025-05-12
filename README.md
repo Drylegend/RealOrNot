@@ -108,7 +108,7 @@ joblib.dump(vectorizer, 'models/vectorizer.pkl')
 
 Deepfake: In Colab, train ViT-Small and save:
 ```
-torch.save(model.state_dict(), 'models/vit_deepfake_detector.pth')
+torch.save(model.state_dict(), 'models/vit_deepfake_detector_augmented.pth')
 ```
 🎯 Future Improvements
 🧠 Integrate LIME/SHAP explainers into image analyzer.
