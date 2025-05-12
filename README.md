@@ -36,21 +36,21 @@
 ├── models/
 │ ├── fake_news_model.pkl
 │ ├── vectorizer.pkl
-│ └── vit_deepfake_detector.pth
+│ └── vit_deepfake_detector_augmented.pth
 ├── pages/ ← Streamlit multi‐page apps
 │ ├── 1_📰_Fake_News_Classifier.py
 │ ├── 2_🧠_Deepfake_Image_Analyzer.py
 │ └── 3_📡_Reddit_Feed_Monitor.py
 └── utils/ ← Helper modules (SOLID)
-├── image_utils.py ← Preprocessing & model loading
-├── image_analysis_utils.py ← Inference & reverse trace logic
-├── reddit_utils.py ← Reddit news fetcher
-├── visual_utils.py ← Funnel‐chart visualization
-├── heatmap_utils.py ← Fake news heatmap
-├── text_analysis_utils.py ← Analysis text
-├── text_utls.py ← Model loading for text analysis
-├── trust_utils.py ← Trust scorecard
-└── xai_utils.py ← Explanation why the news is fake
+  ├── image_utils.py ← Preprocessing & model loading
+  ├── image_analysis_utils.py ← Inference & reverse trace logic
+  ├── reddit_utils.py ← Reddit news fetcher
+  ├── visual_utils.py ← Funnel‐chart visualization
+  ├── heatmap_utils.py ← Fake news heatmap
+  ├── text_analysis_utils.py ← Analysis text
+  ├── text_utls.py ← Model loading for text analysis
+  ├── trust_utils.py ← Trust scorecard
+  └── xai_utils.py ← Explanation why the news is fake
 ```
 
 ---
