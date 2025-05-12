@@ -27,6 +27,7 @@
 ---
 
 ## 📁 Repository Structure
+```
 
 ├── app.py ← Landing page
 ├── requirements.txt ← Python dependencies
@@ -50,7 +51,7 @@
 ├── text_utls.py ← Model loading for text analysis
 ├── trust_utils.py ← Trust scorecard
 └── xai_utils.py ← Explanation why the news is fake
-
+```
 
 ---
 
