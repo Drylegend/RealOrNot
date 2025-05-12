@@ -1,0 +1,27 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+spacy
+transformers
+torch
+Pillow
+scikit-learn
+shap
+lime
+praw
+snscrape
+opencv-python
+folium
+streamlit-folium
+spacy
+requests
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+textblob
+praw
+sentence-transformers
+tf-keras
+lime
+scikit-learn
+timm
