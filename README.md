@@ -3,6 +3,8 @@
 > A Streamlit-based web app to detect fake news in text and deepfake images — with real-time Reddit monitoring, location heatmaps, explainable AI, and reverse traceability.
 
 ---
+![Platform Preview](assets/1.png)
+
 
 ## 🚀 Features
 
