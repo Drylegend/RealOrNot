@@ -1,11 +1,11 @@
-streamlit
+streamlit==1.33.0
 pandas
-numpy
+numpy==1.24.4
 matplotlib
 plotly
 spacy
 transformers
-torch
+torch==2.0.1
 Pillow
 scikit-learn
 shap
