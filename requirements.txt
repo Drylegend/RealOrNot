@@ -1,12 +1,12 @@
 setuptools==68.2.2
-streamlit==1.33.0
+streamlit
 pandas
 numpy==1.26.4
 matplotlib
 plotly
 spacy==3.7.2
 transformers==4.37.0
-torch==2.1.2
+torch
 Pillow==10.2.0
 scikit-learn==1.4.2
 shap
